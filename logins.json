@@ -1,0 +1,32 @@
+[
+  {
+    "Username": "tsunami",
+    "Password": "services",
+    "AllowedHwids": ["0ad729c302a20703d824fd6ad832a15b"]
+  },
+  {
+    "Username": "nojerarp",
+    "Password": "NojeraSigma",
+    "AllowedHwids": ["f876b29ce6e9ced9f012e1e123894e1b"]
+  },
+  {
+    "Username": "lorenzogaymerkwai",
+    "Password": "984356-4544-33XG",
+    "AllowedHwids": ["43cabec173f34faca69edaab75f65bcc"]
+  },
+  {
+    "Username": "a",
+    "Password": "a!",
+    "AllowedHwids": ["d4e5f6a7b8c9d0e1f2a3b4c5d6e1f2a3"]
+  },
+  {
+    "Username": "eva",
+    "Password": "password123",
+    "AllowedHwids": ["e5f6a7b8c9d0e1f2a3b4c5d6e1f2a3b4"]
+  },
+  {
+    "Username": "frank",
+    "Password": "letmein",
+    "AllowedHwids": ["f6a7b8c9d0e1f2a3b4c5d6e1f2a3b4c5"]
+  }
+]
